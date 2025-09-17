@@ -56,4 +56,4 @@ python tictactoe.py
 
 ## 👥 Group / Author(s)
 
-  - **[daniel Luz](https://github.com/dancpluz)**
+  - **[Daniel Luz](https://github.com/dancpluz)**
